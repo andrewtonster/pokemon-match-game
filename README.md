@@ -11,4 +11,5 @@ Screenshots
 ![Screen Shot 2023-09-19 at 10 25 35 PM](https://github.com/andrewtonster/pokemon-match-game/assets/106274906/4025068f-99c4-4574-b15e-c5f607e804a4)
 
 
-![Screen Shot 2023-09-19 at 10 25 35 PM](https://github.com/andrewtonster/pokemon-match-game/assets/106274906/ea689ce2-b341-4419-9c91-8b3be544f3a9)
+![Screen Shot 2023-09-19 at 10 27 24 PM](https://github.com/andrewtonster/pokemon-match-game/assets/106274906/a932c544-9b2e-49f3-9f01-221706f50efc)
+
